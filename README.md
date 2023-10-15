@@ -1,5 +1,6 @@
-# Art-Portfolio
-Collection of my art
+# My-Art-Portfolio
+
+<font size="+5">Visual Art</font>
 
 <p float="left">
   <img src="https://eshi538.github.io/Art-Portfolio/visual%20art/0001.png" style="width:20%" />
