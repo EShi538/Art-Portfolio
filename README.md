@@ -1,7 +1,12 @@
 # Art-Portfolio
 Collection of my art
 
-<img src="https://eshi538.github.io/Art-Portfolio/visual%20art/0001.png" width="300">
+<div class="image-row">
+  <img src="https://eshi538.github.io/Art-Portfolio/visual%20art/0001.png" width="300">
+  <img src="https://eshi538.github.io/Art-Portfolio/visual%20art/0002.jpg" width="300">
+  <img src="https://eshi538.github.io/Art-Portfolio/visual%20art/0003.png" width="300">
+</div>
+
 
 [Guardian Lion
 ](https://eshi538.github.io/Art-Portfolio/visual%20art/0001.png)
