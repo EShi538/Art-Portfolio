@@ -5,31 +5,31 @@ Collection of my art
 ](https://eshi538.github.io/Art-Portfolio/visual%20art/0001.png)
 
 [Oranges
-](https://eshi538.github.io/Art-Portfolio/visual%20art/0002.png)
+](https://eshi538.github.io/Art-Portfolio/visual%20art/0002.jpg)
 
 [Old Tree (Mastercopy)
 ](https://eshi538.github.io/Art-Portfolio/visual%20art/0003.png)
 
 [Portrait
-](https://eshi538.github.io/Art-Portfolio/visual%20art/0004.png)
+](https://eshi538.github.io/Art-Portfolio/visual%20art/0004.jpg)
 
 [Mural
-](https://eshi538.github.io/Art-Portfolio/visual%20art/0005.png)
+](https://eshi538.github.io/Art-Portfolio/visual%20art/0005.jpg)
 
 [Hands
-](https://eshi538.github.io/Art-Portfolio/visual%20art/0006.png)
+](https://eshi538.github.io/Art-Portfolio/visual%20art/0006.jpg)
 
 [Geckos
-](https://eshi538.github.io/Art-Portfolio/visual%20art/0007.png)
+](https://eshi538.github.io/Art-Portfolio/visual%20art/0007.jpg)
 
 [Tiger
-](https://eshi538.github.io/Art-Portfolio/visual%20art/0008.png)
+](https://eshi538.github.io/Art-Portfolio/visual%20art/0008.jpg)
 
 [Silicon
-](https://eshi538.github.io/Art-Portfolio/visual%20art/0009.png)
+](https://eshi538.github.io/Art-Portfolio/visual%20art/0009.jpg)
 
 [USB
-](https://eshi538.github.io/Art-Portfolio/visual%20art/0010.png)
+](https://eshi538.github.io/Art-Portfolio/visual%20art/0010.jpg)
 
 [Faces
 ](https://eshi538.github.io/Art-Portfolio/visual%20art/0011.png)
@@ -38,10 +38,10 @@ Collection of my art
 ](https://eshi538.github.io/Art-Portfolio/visual%20art/0012.png)
 
 [Plant
-](https://eshi538.github.io/Art-Portfolio/visual%20art/0013.png)
+](https://eshi538.github.io/Art-Portfolio/visual%20art/0013.jpeg)
 
 [Display
-](https://eshi538.github.io/Art-Portfolio/visual%20art/0014.png)
+](https://eshi538.github.io/Art-Portfolio/visual%20art/0014.jpg)
 
 [Mice
 ](https://eshi538.github.io/Art-Portfolio/visual%20art/0015.png)
