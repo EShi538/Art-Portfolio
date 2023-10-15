@@ -1,7 +1,7 @@
 # Art-Portfolio
 Collection of my art
 
-![Guardian Lion Raw](visual%20art/0001.png?raw=true "Guardian Lion")
+![Guardian Lion Raw](visual%20art/0001.png)
 
 [Guardian Lion
 ](https://eshi538.github.io/Art-Portfolio/visual%20art/0001.png)
