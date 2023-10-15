@@ -1,12 +1,17 @@
 # Art-Portfolio
 Collection of my art
 
-<div class="image-row">
-  <img src="https://eshi538.github.io/Art-Portfolio/visual%20art/0001.png" width="300">
-  <img src="https://eshi538.github.io/Art-Portfolio/visual%20art/0002.jpg" width="300">
-  <img src="https://eshi538.github.io/Art-Portfolio/visual%20art/0003.png" width="300">
+<div class="row">
+  <div class="column">
+    <img src="https://eshi538.github.io/Art-Portfolio/visual%20art/0001.png" alt="Guardian_Lion" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://eshi538.github.io/Art-Portfolio/visual%20art/0002.jpg" alt="Oranges" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://eshi538.github.io/Art-Portfolio/visual%20art/0003.png)" alt="Trees" style="width:100%">
+  </div>
 </div>
-
 
 [Guardian Lion
 ](https://eshi538.github.io/Art-Portfolio/visual%20art/0001.png)
