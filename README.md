@@ -2,9 +2,9 @@
 Collection of my art
 
 <p float="left">
-  <img src="https://eshi538.github.io/Art-Portfolio/visual%20art/0001.png" style="width:50%" />
-  <img src="https://eshi538.github.io/Art-Portfolio/visual%20art/0002.jpg" style="width:50%" /> 
-  <img src="https://eshi538.github.io/Art-Portfolio/visual%20art/0003.png" style="width:50%" />
+  <img src="https://eshi538.github.io/Art-Portfolio/visual%20art/0001.png" style="width:30%" />
+  <img src="https://eshi538.github.io/Art-Portfolio/visual%20art/0002.jpg" style="width:30%" /> 
+  <img src="https://eshi538.github.io/Art-Portfolio/visual%20art/0003.png" style="width:30%" />
 </p>
 
 [Guardian Lion
