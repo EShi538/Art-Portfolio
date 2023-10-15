@@ -1,5 +1,9 @@
 #My Art Portfolio
 
+
+
+<font size="+100"> Visual Art </font>
+
 <p float="left">
   <img src="https://eshi538.github.io/Art-Portfolio/visual%20art/0001.png" style="width:20%" />
   <img src="https://eshi538.github.io/Art-Portfolio/visual%20art/0002.jpg" style="width:20%" /> 
