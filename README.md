@@ -1,9 +1,9 @@
 #My Art Portfolio
 
-<a href="0001.png">Page 2</a>
+<a href="https://eshi538.github.io/Art-Portfolio/visual%20art/0001.png">Page 2</a>
 
 <p float="left">
-  <img src="https://eshi538.github.io/Art-Portfolio/visual%20art/0001.png" style="width:20%" />
+  <img src="https://eshi538.github.io/Art-Portfolio/visual%20art/0001.png" href="https://eshi538.github.io/Art-Portfolio/visual%20art/0001.png" style="width:20%" />
   <img src="https://eshi538.github.io/Art-Portfolio/visual%20art/0002.jpg" style="width:20%" /> 
   <img src="https://eshi538.github.io/Art-Portfolio/visual%20art/0003.png" style="width:20%" />
   <img src="https://eshi538.github.io/Art-Portfolio/visual%20art/0004.jpg" style="width:20%" />
