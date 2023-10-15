@@ -1,11 +1,8 @@
 #My-Art-Portfolio
 
-
-<p float="left">
-  <a href="visual%20art/visualart.html">Visual Art</a>
-  <a href="journalism/journalism.html">Journalism</a>
-</p>
-
+ 
+<a href="visual%20art/visualart.html">Visual Art</a> <a href="journalism/journalism.html">Journalism</a>
+  
 ======================================
 
 
