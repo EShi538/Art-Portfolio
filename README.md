@@ -9,8 +9,9 @@ Visual Art
   <img src="https://eshi538.github.io/Art-Portfolio/visual%20art/0004.jpg" style="width:20%" />
 </p>
 
+<img src="https://eshi538.github.io/Art-Portfolio/visual%20art/0005.jpg" style="width:50%" />
+
 <p float="left">
-  <img src="https://eshi538.github.io/Art-Portfolio/visual%20art/0005.jpg" style="width:20%" />
   <img src="https://eshi538.github.io/Art-Portfolio/visual%20art/0006.jpg" style="width:20%" /> 
   <img src="https://eshi538.github.io/Art-Portfolio/visual%20art/0007.jpg" style="width:20%" />
   <img src="https://eshi538.github.io/Art-Portfolio/visual%20art/0008.jpg" style="width:20%" />
