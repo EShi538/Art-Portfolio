@@ -3,13 +3,13 @@ Collection of my art
 
 <div class="row">
   <div class="column">
-    <img src="https://eshi538.github.io/Art-Portfolio/visual%20art/0001.png" alt="Guardian_Lion" style="width:100%">
+    <img src="https://eshi538.github.io/Art-Portfolio/visual%20art/0001.png" alt="Guardian_Lion" style="width:100">
   </div>
   <div class="column">
-    <img src="https://eshi538.github.io/Art-Portfolio/visual%20art/0002.jpg" alt="Oranges" style="width:100%">
+    <img src="https://eshi538.github.io/Art-Portfolio/visual%20art/0002.jpg" alt="Oranges" style="width:100">
   </div>
   <div class="column">
-    <img src="https://eshi538.github.io/Art-Portfolio/visual%20art/0003.png)" alt="Trees" style="width:100%">
+    <img src="https://eshi538.github.io/Art-Portfolio/visual%20art/0003.png" alt="Trees" style="width:100">
   </div>
 </div>
 
