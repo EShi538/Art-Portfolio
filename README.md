@@ -1,6 +1,6 @@
 #My Art Portfolio
 
-<a href="visualart.html">Page 2</a>
+<a href="visual art/visualart.html">Page 2</a>
 
 <p float="left">
   <img src="https://eshi538.github.io/Art-Portfolio/visual%20art/0001.png" href="https://eshi538.github.io/Art-Portfolio/visual%20art/0001.png" style="width:20%" />
